@@ -1,0 +1,46 @@
+Current number of bytes allocated: 0
+Total free space: 0
+Largest contiguous free space: 0
+Number of my_malloc() gets called: 0
+----------------------------------------------------------------
+Current number of bytes allocated: 2000
+Total free space: 100000
+Largest contiguous free space: 100000
+Number of my_malloc() gets called: 1
+----------------------------------------------------------------
+Current number of bytes allocated: 6000
+Total free space: 95992
+Largest contiguous free space: 95992
+Number of my_malloc() gets called: 2
+----------------------------------------------------------------
+Current number of bytes allocated: 4000
+Total free space: 98000
+Largest contiguous free space: 95992
+Number of my_malloc() gets called: 2
+----------------------------------------------------------------
+Current number of bytes allocated: 12000
+Total free space: 89992
+Largest contiguous free space: 87984
+Number of my_malloc() gets called: 3
+----------------------------------------------------------------
+Current number of bytes allocated: 4000
+Total free space: 98000
+Largest contiguous free space: 95992
+Number of my_malloc() gets called: 3
+----------------------------------------------------------------
+Current number of bytes allocated: 12000
+Total free space: 89992
+Largest contiguous free space: 87984
+Number of my_malloc() gets called: 4
+----------------------------------------------------------------
+Current number of bytes allocated: 8000
+Total free space: 94000
+Largest contiguous free space: 87984
+Number of my_malloc() gets called: 4
+----------------------------------------------------------------
+Current number of bytes allocated: 0
+Total free space: 102008
+Largest contiguous free space: 102008
+Number of my_malloc() gets called: 4
+----------------------------------------------------------------
+
