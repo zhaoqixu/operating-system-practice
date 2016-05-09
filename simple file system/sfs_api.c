@@ -1,5 +1,3 @@
-//Zhaoqi Xu
-//260563752
 
 #include "disk_emu.h"
 #include "sfs_api.h"
